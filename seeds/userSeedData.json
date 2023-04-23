@@ -1,0 +1,44 @@
+[
+    {
+        "username": "martin_jacob",
+        "twitter": "martinb",
+        "github": "martinb",
+        "email": "martin_jacob@sample.com",
+        "password": "password12345"
+    },
+    {
+        "username": "ankush",
+        "twitter": "ankush",
+        "github": "ankush",
+        "email": "ankush@sample.com",
+        "password": "password12345"
+    },
+    {
+        "username": "shaminder",
+        "twitter": "shaminder",
+        "github": "shaminder",
+        "email": "shaminder@sample.com",
+        "password": "password12345"
+    },
+    {
+        "username": "tester",
+        "twitter": "tester",
+        "github": "tester",
+        "email": "tester@sample.com",
+        "password": "password12345"
+    },
+    {
+        "username": "sarah",
+        "twitter": "sarah",
+        "github": "sarah",
+        "email": "sarah@sample.com",
+        "password": "password12345"
+    },
+    {
+        "username": "prabhav",
+        "twitter": "prabhav",
+        "github": "prabhav",
+        "email": "prabhav@sample.com",
+        "password": "password12345"
+    }
+]
