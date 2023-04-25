@@ -7,3 +7,5 @@ This is CMS-style blog site similar to a Wordpress site, where developers can pu
 The following is the screen print and the link of of the application deployed in Heroku:
 
 https://somraj-techblog.herokuapp.com/
+
+![image](https://user-images.githubusercontent.com/120338398/234152286-dace4837-229b-4f38-9904-68be86c0eb9d.png)
